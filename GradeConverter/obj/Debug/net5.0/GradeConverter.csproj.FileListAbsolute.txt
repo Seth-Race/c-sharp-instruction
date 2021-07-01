@@ -1,0 +1,16 @@
+C:\repos\C#-instruction\GradeConverter\obj\Debug\net5.0\GradeConverter.csprojAssemblyReference.cache
+C:\repos\C#-instruction\GradeConverter\obj\Debug\net5.0\GradeConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#-instruction\GradeConverter\obj\Debug\net5.0\GradeConverter.AssemblyInfoInputs.cache
+C:\repos\C#-instruction\GradeConverter\obj\Debug\net5.0\GradeConverter.AssemblyInfo.cs
+C:\repos\C#-instruction\GradeConverter\obj\Debug\net5.0\GradeConverter.csproj.CoreCompileInputs.cache
+C:\repos\C#-instruction\GradeConverter\bin\Debug\net5.0\GradeConverter.exe
+C:\repos\C#-instruction\GradeConverter\bin\Debug\net5.0\GradeConverter.deps.json
+C:\repos\C#-instruction\GradeConverter\bin\Debug\net5.0\GradeConverter.runtimeconfig.json
+C:\repos\C#-instruction\GradeConverter\bin\Debug\net5.0\GradeConverter.runtimeconfig.dev.json
+C:\repos\C#-instruction\GradeConverter\bin\Debug\net5.0\GradeConverter.dll
+C:\repos\C#-instruction\GradeConverter\bin\Debug\net5.0\ref\GradeConverter.dll
+C:\repos\C#-instruction\GradeConverter\bin\Debug\net5.0\GradeConverter.pdb
+C:\repos\C#-instruction\GradeConverter\obj\Debug\net5.0\GradeConverter.dll
+C:\repos\C#-instruction\GradeConverter\obj\Debug\net5.0\ref\GradeConverter.dll
+C:\repos\C#-instruction\GradeConverter\obj\Debug\net5.0\GradeConverter.pdb
+C:\repos\C#-instruction\GradeConverter\obj\Debug\net5.0\GradeConverter.genruntimeconfig.cache

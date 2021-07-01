@@ -1,0 +1,16 @@
+C:\repos\C#-instruction\StudentRegistration\bin\Debug\net5.0\StudentRegistration.exe
+C:\repos\C#-instruction\StudentRegistration\bin\Debug\net5.0\StudentRegistration.deps.json
+C:\repos\C#-instruction\StudentRegistration\bin\Debug\net5.0\StudentRegistration.runtimeconfig.json
+C:\repos\C#-instruction\StudentRegistration\bin\Debug\net5.0\StudentRegistration.runtimeconfig.dev.json
+C:\repos\C#-instruction\StudentRegistration\bin\Debug\net5.0\StudentRegistration.dll
+C:\repos\C#-instruction\StudentRegistration\bin\Debug\net5.0\ref\StudentRegistration.dll
+C:\repos\C#-instruction\StudentRegistration\bin\Debug\net5.0\StudentRegistration.pdb
+C:\repos\C#-instruction\StudentRegistration\obj\Debug\net5.0\StudentRegistration.csprojAssemblyReference.cache
+C:\repos\C#-instruction\StudentRegistration\obj\Debug\net5.0\StudentRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#-instruction\StudentRegistration\obj\Debug\net5.0\StudentRegistration.AssemblyInfoInputs.cache
+C:\repos\C#-instruction\StudentRegistration\obj\Debug\net5.0\StudentRegistration.AssemblyInfo.cs
+C:\repos\C#-instruction\StudentRegistration\obj\Debug\net5.0\StudentRegistration.csproj.CoreCompileInputs.cache
+C:\repos\C#-instruction\StudentRegistration\obj\Debug\net5.0\StudentRegistration.dll
+C:\repos\C#-instruction\StudentRegistration\obj\Debug\net5.0\ref\StudentRegistration.dll
+C:\repos\C#-instruction\StudentRegistration\obj\Debug\net5.0\StudentRegistration.pdb
+C:\repos\C#-instruction\StudentRegistration\obj\Debug\net5.0\StudentRegistration.genruntimeconfig.cache

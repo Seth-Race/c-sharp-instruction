@@ -1,0 +1,15 @@
+C:\repos\C#-instruction\RectangleCalculator\bin\Debug\net5.0\RectangleCalculator.exe
+C:\repos\C#-instruction\RectangleCalculator\bin\Debug\net5.0\RectangleCalculator.deps.json
+C:\repos\C#-instruction\RectangleCalculator\bin\Debug\net5.0\RectangleCalculator.runtimeconfig.json
+C:\repos\C#-instruction\RectangleCalculator\bin\Debug\net5.0\RectangleCalculator.runtimeconfig.dev.json
+C:\repos\C#-instruction\RectangleCalculator\bin\Debug\net5.0\RectangleCalculator.dll
+C:\repos\C#-instruction\RectangleCalculator\bin\Debug\net5.0\ref\RectangleCalculator.dll
+C:\repos\C#-instruction\RectangleCalculator\bin\Debug\net5.0\RectangleCalculator.pdb
+C:\repos\C#-instruction\RectangleCalculator\obj\Debug\net5.0\RectangleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#-instruction\RectangleCalculator\obj\Debug\net5.0\RectangleCalculator.AssemblyInfoInputs.cache
+C:\repos\C#-instruction\RectangleCalculator\obj\Debug\net5.0\RectangleCalculator.AssemblyInfo.cs
+C:\repos\C#-instruction\RectangleCalculator\obj\Debug\net5.0\RectangleCalculator.csproj.CoreCompileInputs.cache
+C:\repos\C#-instruction\RectangleCalculator\obj\Debug\net5.0\RectangleCalculator.dll
+C:\repos\C#-instruction\RectangleCalculator\obj\Debug\net5.0\ref\RectangleCalculator.dll
+C:\repos\C#-instruction\RectangleCalculator\obj\Debug\net5.0\RectangleCalculator.pdb
+C:\repos\C#-instruction\RectangleCalculator\obj\Debug\net5.0\RectangleCalculator.genruntimeconfig.cache
